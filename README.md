@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, C/C++, Java
 
 ## Education
 - MEng, Applied Maths and Informatics | INSA (_2022-Present_)								       		
@@ -23,7 +23,3 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 
 
-## Publications
-1. 
-
-- [Data Science Blog](https://medium.com/@shawhin)
