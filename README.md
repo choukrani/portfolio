@@ -7,10 +7,13 @@
 - CPGE, MP*	| Lycée Moulay Idriss (_2021-2022_)	 			        		
 - CPGE, MPSI | Lycée Omar Ibn Abdelaziz (_2020-2021_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Experience
+**Tutor - Mentor @ Normandy Academy (_Nov 2022 - May 2023_)**
+Les Cordées de la réussite de l'INSA Rouen Normandie: foster equal opportunities, combat self-censorship, and support success among young students. Activities include:
+- Tutoring
+- Mentoring
+- Debating
+- Animating stands
 
 
 ## Projects
