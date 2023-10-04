@@ -1,4 +1,4 @@
-# Data Scientist
+# AI Enthusiast
 
 #### Technical Skills: Python, SQL, R, C/C++, Java
 
@@ -9,6 +9,7 @@
 
 ## Experience
 **Tutor - Mentor @ Normandy Academy (_Nov 2022 - May 2023_)**
+
 Les Cordées de la réussite de l'INSA Rouen Normandie: foster equal opportunities, combat self-censorship, and support success among young students. Activities include:
 - Tutoring
 - Mentoring
