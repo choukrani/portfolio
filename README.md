@@ -46,7 +46,7 @@ Developed a responsive chatbot
 
 
 ## Contact
-- [Github](https://github.com/choukrani)
+[Github](https://github.com/choukrani)
 
 [LinkedIn](https://www.linkedin.com/in/choukrani/)
 
