@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, R, C/C++, Java
 
 ## Education
-- MEng, Applied Maths and Informatics | National Institute of Applied Sciences in Rouen, Normandy, France (_2022-Present_)								       		
-- CPGE, MP* | Lycée Moulay Idriss in Fes, Morocco (_2021-2022_)	 			        		
-- CPGE, MPSI | Lycée Omar Ibn Abdelaziz in Oujda, Morocco (_2020-2021_)
+- MEng, Applied Mathematics and Informatics | National Institute of Applied Sciences, Rouen, Normandy, France (_2022-Present_)								       		
+- CPGE, Mathematics and Physics | MP*, Lycée Moulay Idriss, Fes, Morocco (_2021-2022_)	 			        		
+- CPGE, Mathematics and Physics | MPSI, Lycée Omar Ibn Abdelaziz, Oujda, Morocco (_2020-2021_)
 
 ## Experience
 
