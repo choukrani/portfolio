@@ -36,12 +36,9 @@ Developed a responsive chatbot
 
 ## Volunteering
 
-**Tutor - Mentor @ Normandy Academy (_Nov 2022 - May 2023_)**
+**Core Member @ MoroccoAI (_June 2022 - Present_)**
 
-- Tutoring
-- Mentoring
-- Debating
-- Animating stands
+- Newsletter editing
 
 
 
