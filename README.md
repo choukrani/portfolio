@@ -52,7 +52,7 @@ Developed a responsive chatbot
 
 [Twitter](https://twitter.com/choukrani)
 
-![OC LOGO](/assets/img/OC.png)
+[OC LOGO](/assets/img/OC.png)
 
 
 
