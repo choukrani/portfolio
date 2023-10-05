@@ -11,6 +11,9 @@
 
 **Founder - President @ INSA AI Association (_June 2023 - Present_)**
 
+A recently founded association that unites Groupe INSA sudents nationwide fostering AI innovation and collaboration.
+
+[More Info](https://www.linkedin.com/company/insaaia)
 
 **Tutor - Mentor @ Normandy Academy (_Nov 2022 - May 2023_)**
 
@@ -23,7 +26,7 @@ Les Cordées de la réussite de l'INSA Rouen Normandie: foster equal opportuniti
 
 **Mathematics Tutor @ Self Employed (_2020 - Present_)**
 
-
+Independent mathematics teacher for high school students.
 
 
 ## Projects
@@ -34,7 +37,7 @@ Developed a responsive chatbot
 
 
 
-## Volunteering
+## Community Work
 
 **Core Member @ MoroccoAI (_June 2022 - Present_)**
 
