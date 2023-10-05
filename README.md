@@ -31,11 +31,10 @@ Independent mathematics teacher for high school students.
 
 ## Projects
 ### ELIZA
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed a responsive chatbot
+Currently working with two of my classmates on a responsive chatbot inspired by an early natural language processing computer program created from 1964 to 1967 at MIT by Joseph Weizenbaum.
 
-
+![ELIZA](/assets/img/ELIZA.png)
 
 ## Community Work
 
@@ -52,7 +51,6 @@ Developed a responsive chatbot
 
 [Twitter](https://twitter.com/choukrani)
 
-[OC LOGO](/assets/img/OC.png)
 
 
 
