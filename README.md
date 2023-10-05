@@ -34,6 +34,8 @@ Independent mathematics teacher for high school students.
 
 Currently working with two of my classmates on a responsive chatbot inspired by an early natural language processing computer program created from 1964 to 1967 at MIT by Joseph Weizenbaum.
 
+[Watch real-time progress on github](https://github.com/choukrani/portfolio)
+
 ![ELIZA](/assets/img/ELIZA.png)
 
 ## Community Work
