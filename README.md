@@ -51,7 +51,12 @@ Currently working with two of my classmates on a responsive chatbot inspired by 
 
 **Core Member @ MoroccoAI (_June 2022 - Present_)**
 
-- Newsletter editing
+A non-profit educational and research organization led by AI experts with a mission to promote excellence in AI education and research, foster collaborations for innovation, and provide ample opportunities of growth for young researchers.
+
+MoroccoAI is a proud partner of Google, Nvidia, and several other big tech companies, as well as Universities and Research Institutes in Morocco and abroad.
+
+Feel free to reach out at
+team[@]morocco.ai
 
 
 
