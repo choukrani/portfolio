@@ -41,7 +41,13 @@ Currently working with two of my classmates on a responsive chatbot inspired by 
 
 ### The Mathematics of Social Distancing
 
-Currently working with two of my classmates on a responsive chatbot inspired by an early natural language processing computer program created from 1964 to 1967 at MIT by Joseph Weizenbaum.
+For my Health and Prevention-themed CPGE project (TIPE), I delved into mathematical modeling, leveraging powerful tools like numpy and matplotlib to create a robust solution. We focused on the numerical resolution of partial differential equations (PDEs) to address critical health-related scenarios, enhancing our skills in both mathematics and computer science.
+
+- Proficiency in mathematical modeling techniques
+- Advanced use of numpy for numerical computations
+- Expertise in data visualization using matplotlib
+- Problem-solving through numerical resolution of partial differential equations (PDEs)
+- Integrating mathematical concepts into computer science applications
 
 ![TIPE](/assets/img/TIPE.jpg)
 
