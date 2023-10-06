@@ -39,7 +39,7 @@ Currently working with two of my classmates on a responsive chatbot inspired by 
 ![ELIZA](/assets/img/ELIZA.png)
 
 
-## EThe Mathematics of Social Distancing
+### The Mathematics of Social Distancing
 
 Currently working with two of my classmates on a responsive chatbot inspired by an early natural language processing computer program created from 1964 to 1967 at MIT by Joseph Weizenbaum.
 
