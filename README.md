@@ -71,7 +71,7 @@ team[@]morocco.ai
 
 [LinkedIn](https://www.linkedin.com/in/choukrani/)
 
-[Twitter](https://twitter.com/choukrani)
+[Twitter](https://twitter.com/choukr4ni)
 
 
 
